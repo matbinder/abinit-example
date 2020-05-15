@@ -1,0 +1,3 @@
+#!/bin/bash
+wget https://wiki.fysik.dtu.dk/abinit-files/abinit-pseudopotentials-2.tar.gz
+tar -xf abinit-pseudopotentials-2.tar.gz
