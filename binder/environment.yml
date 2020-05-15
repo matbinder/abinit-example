@@ -1,0 +1,6 @@
+channels:
+- conda-forge
+- abinit
+dependencies:
+- abinit
+- ase
