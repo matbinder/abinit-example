@@ -1,5 +1,5 @@
 channels:
 - conda-forge
 dependencies:
-- abinit=8.10.2=h279e56a_4
+- abinit=8.10.2=h279e56a_6
 - ase
